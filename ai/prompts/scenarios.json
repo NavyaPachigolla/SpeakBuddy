@@ -1,0 +1,47 @@
+[
+  {
+    "id": "daily_conversation",
+    "title": "Daily Conversation",
+    "description": "Casual everyday English with a friendly neighbor or peer. Practice talking about hobbies, weekend plans, and daily routines.",
+    "icon": "Coffee",
+    "level": "All Levels",
+    "starter_prompt": "Hi there! It's so nice to meet you. What do you usually like to do in your free time?",
+    "sample_topics": ["Weekend plans", "Favorite food & cooking", "Movies and music", "Hometown & weather"]
+  },
+  {
+    "id": "job_interview",
+    "title": "Job Interview",
+    "description": "Drill common interview questions with an empathetic hiring manager. Practice structuring concise, confident professional answers.",
+    "icon": "Briefcase",
+    "level": "Intermediate / Advanced",
+    "starter_prompt": "Hello! Welcome to our interview today. To start off, could you please tell me a little bit about yourself?",
+    "sample_topics": ["Self-introduction", "Greatest strengths & achievements", "Handling challenges", "Career aspirations"]
+  },
+  {
+    "id": "college_conversation",
+    "title": "College Conversation",
+    "description": "Navigate life on campus. Practice speaking with classmates about projects, exams, professors, and student clubs.",
+    "icon": "GraduationCap",
+    "level": "Beginner / Intermediate",
+    "starter_prompt": "Hey! Are you also taking the computer science seminar this semester? How are you finding the coursework so far?",
+    "sample_topics": ["Course registration", "Group study sessions", "Campus events", "Exams preparation"]
+  },
+  {
+    "id": "travel",
+    "title": "Travel & Exploration",
+    "description": "Essential English for exploring the world: asking for directions, ordering food, checking into hotels, and airport transit.",
+    "icon": "Plane",
+    "level": "Beginner / Intermediate",
+    "starter_prompt": "Good day! Welcome to the Central Metro station info kiosk. Where can I help you travel today?",
+    "sample_topics": ["Asking for directions", "Ordering at a restaurant", "Hotel check-in", "Transit & booking"]
+  },
+  {
+    "id": "introduction",
+    "title": "Confident Introduction",
+    "description": "Master your 60-second self-introduction for meetups, networking events, or meeting new international friends.",
+    "icon": "UserCheck",
+    "level": "All Levels",
+    "starter_prompt": "Hi! Welcome to our language exchange meetup. How would you introduce yourself to someone you just met?",
+    "sample_topics": ["Your name & background", "Your passion & hobbies", "Why you are learning English", "Goals"]
+  }
+]
